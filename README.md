@@ -62,15 +62,6 @@ The goal is to uncover:
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
----
-
-## Repository Structure
-├── analysis.ipynb        # Complete analysis notebook
-├── README.md             # Project documentation
-└── requirements.txt      # Python dependencies
-
----
-
 ## Conclusion
 Market sentiment plays a critical role in trader performance. Incorporating sentiment-aware
 analysis enables better identification of high-performing, contrarian, and consistent traders,
